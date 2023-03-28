@@ -1,6 +1,6 @@
 ﻿namespace CoruseThree.Models.ViewModel
 {
-    public class Student
+    public class Phone
     {
     }
 }
