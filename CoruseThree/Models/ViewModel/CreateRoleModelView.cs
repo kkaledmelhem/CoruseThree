@@ -7,5 +7,6 @@ namespace CoruseThree.Models.ViewModel
         [Required]
 
         public string RoleName { get; set; }
+        public int MyProperty { get; set; }
     }
 }
