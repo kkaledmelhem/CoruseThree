@@ -2,5 +2,6 @@
 {
     public class Movie
     {
+        public int MyProperty { get; set; }
     }
 }
